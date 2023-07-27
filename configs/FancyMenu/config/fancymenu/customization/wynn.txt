@@ -24,12 +24,15 @@ customization {
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
   x = 0
   action = movebutton
-  y = -84
+  y = -36
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = hidebutton
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -20
 }
 
 customization {
@@ -46,6 +49,16 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -59,18 +72,13 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
-}
-
-customization {
   orientation = top-left
   hidden = false
   x = 2
   width = 165
   action = deep_customization_element:title_screen_branding
   actionid = 17486664-c0d5-4b8c-9582-3e78f860b4df1673002848615
-  y = 238
+  y = 388
   height = 10
 }
 
@@ -119,7 +127,7 @@ customization {
   width = 200
   action = addbutton
   actionid = 2125e65b-daf7-4cce-ad7a-49b9934d13be1673002882086
-  y = -60
+  y = -84
   label = Play Wynncraft
   height = 20
 }
@@ -134,7 +142,7 @@ customization {
   width = 200
   action = addbutton
   actionid = e9e31d78-53b4-4e7a-a285-be3d2820b3f11673004910908
-  y = -36
+  y = -60
   label = Join Wynncraft lobby
   height = 20
 }
