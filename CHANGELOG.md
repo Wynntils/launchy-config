@@ -1,3 +1,12 @@
+## [0.1.1](https://github.com/Wynntils/launchy-config/compare/v0.1.0...v0.1.1) (2024-08-08)
+
+
+### Bug Fixes
+
+* (Try to) fix bobby chunk files not being included ([#4](https://github.com/Wynntils/launchy-config/issues/4)) ([b695156](https://github.com/Wynntils/launchy-config/commit/b6951564a6a946f61a02bf8d2aa00a8913f6b992))
+
+
+
 # [0.1.0](https://github.com/Wynntils/launchy-config/compare/v0.0.1-rc.0...v0.1.0) (2024-08-08)
 
 
