@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/Wynntils/launchy-config/compare/v0.1.1...v0.2.0) (2024-08-09)
+
+
+### Features
+
+* Update Distant Horizons chunk cache to 1.21 + Wynncraft 2.0, add a required default config for multiplayer folder naming ([#5](https://github.com/Wynntils/launchy-config/issues/5)) ([e9e0c0d](https://github.com/Wynntils/launchy-config/commit/e9e0c0ddfbd92f2f1b63452d527324bf6366d322))
+
+
+
 ## [0.1.1](https://github.com/Wynntils/launchy-config/compare/v0.1.0...v0.1.1) (2024-08-08)
 
 
